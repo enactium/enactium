@@ -64,6 +64,7 @@ Hello, my name is Hicham BAIDOURI and Ph.D. in computer science, I have more tha
 -&nbsp;&nbsp;PostgreSQL<br/>
 -&nbsp;&nbsp;Maven<br/>
 -&nbsp;&nbsp;Gradle<br/>
--&nbsp;&nbsp;NPM/Yarn<br/>
+-&nbsp;&nbsp;Npm<br/>
+-&nbsp;&nbsp;Yarn<br/>
 -&nbsp;&nbsp;Jenkins<br/>
 -&nbsp;&nbsp;Git & SVN
