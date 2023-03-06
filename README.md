@@ -3,7 +3,7 @@ Hello, my name is Hicham BAIDOURI and Ph.D. in computer science, I have more tha
 
 - 🔭 &nbsp;I’m currently working on something cool (Migration from Monolithic to Micro-Service) :wink:
 - 🌱 &nbsp;I’m currently learning deeply the MEAN stack
-- 📫 How to reach me: baidourihicham@gmail.com
+- 📫 &nbsp;How to reach me: baidourihicham@gmail.com
 - 💬 &nbsp;Ask me about anything related to my technology stack below
 - ⚡ &nbsp;Fun fact: Creativity is intelligence having fun!
 
