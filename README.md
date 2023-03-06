@@ -58,7 +58,7 @@ Hello, my name is Hicham BAIDOURI and Ph.D. in computer science, I have more tha
 -&nbsp;&nbsp;AppDynamics<br/>
 -&nbsp;&nbsp;Tomcat<br/>
 -&nbsp;&nbsp;JBoss (WildFly)<br/>
--&nbsp;&nbsp;IBM WAS<br/>
+-&nbsp;&nbsp;IBM WebSphere<br/>
 -&nbsp;&nbsp;MySQL<br/>
 -&nbsp;&nbsp;Oracle<br/>
 -&nbsp;&nbsp;PostgreSQL<br/>
