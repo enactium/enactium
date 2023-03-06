@@ -24,7 +24,7 @@ Hello, my name is Hicham BAIDOURI and Ph.D. in computer science, I have more tha
 -------
 
 <details>
-  <summary><b>🛠️&nbsp;&nbsp;Technology Stack</b></summary>
+  <summary><b>🛠️&nbsp;&nbsp;Methodology & technology stack</b></summary>
   <br/>
 -&nbsp;&nbsp;Java/JEE<br/>
 -&nbsp;&nbsp;C/C++<br/>
