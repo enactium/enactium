@@ -27,9 +27,7 @@ I am confident that I can make a significant contribution to your team and help 
 
 -------
 
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Methodology & technology stack</b></summary>
-  <br/>
+🛠️ &nbsp;**Methodology & technology stack**
 -&nbsp;&nbsp;Java/JEE<br/>
 -&nbsp;&nbsp;C/C++<br/>
 -&nbsp;&nbsp;Objective-C<br/>
@@ -38,24 +36,28 @@ I am confident that I can make a significant contribution to your team and help 
 -&nbsp;&nbsp;PL/SQL<br/>
 -&nbsp;&nbsp;Python<br/>
 -&nbsp;&nbsp;HTML<br/>
+-&nbsp;&nbsp;JSON<br/>
 -&nbsp;&nbsp;XML<br/>
 -&nbsp;&nbsp;JavaScript<br/>
+-&nbsp;&nbsp;jQuery<br/>
 -&nbsp;&nbsp;JSF<br/>
 -&nbsp;&nbsp;JPA<br/>
 -&nbsp;&nbsp;Hibernate<br/>
 -&nbsp;&nbsp;Spring<br/>
 -&nbsp;&nbsp;Spring-Boot<br/>
+-&nbsp;&nbsp;RESTful APIs<br/>
 -&nbsp;&nbsp;UML<br/>
 -&nbsp;&nbsp;Android SDK<br/>
 -&nbsp;&nbsp;iOS SDK<br/>
 -&nbsp;&nbsp;Ionic<br/>
+-&nbsp;&nbsp;Angular<br/>
 -&nbsp;&nbsp;React<br/>
 -&nbsp;&nbsp;React-Native<br/>
 -&nbsp;&nbsp;MDA<br/>
 -&nbsp;&nbsp;SOA<br/>
 -&nbsp;&nbsp;Micro-Service<br/>
 -&nbsp;&nbsp;PMP<br/>
--&nbsp;&nbsp;Scrum<br/>
+-&nbsp;&nbsp;Scrum & Kanban<br/>
 -&nbsp;&nbsp;Agile<br/>
 -&nbsp;&nbsp;SonarQube<br/>
 -&nbsp;&nbsp;JMeter<br/>
@@ -66,6 +68,7 @@ I am confident that I can make a significant contribution to your team and help 
 -&nbsp;&nbsp;MySQL<br/>
 -&nbsp;&nbsp;Oracle<br/>
 -&nbsp;&nbsp;PostgreSQL<br/>
+-&nbsp;&nbsp;MongoDB<br/>
 -&nbsp;&nbsp;Maven<br/>
 -&nbsp;&nbsp;Gradle<br/>
 -&nbsp;&nbsp;Npm<br/>
