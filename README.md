@@ -6,7 +6,7 @@ I am a dedicated and skilled developer who is passionate about crafting innovati
 I am confident that I can make a significant contribution to your team and help you achieve your goals.
 
 - 🔭 &nbsp;I’m currently working on something cool (Migration from Monolithic to Micro-Service) :wink:
-- 🌱 &nbsp;I’m currently learning deeply the MEAN stack
+- 🌱 &nbsp;I am currently exploring the depths of AI
 - 📫 &nbsp;How to reach me: baidourihicham@gmail.com
 - 🌐 &nbsp;Find more about my profile on: https://b2blink.ma/enactium/
 - 💬 &nbsp;Ask me about anything related to my technology stack below
