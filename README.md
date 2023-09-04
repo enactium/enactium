@@ -7,7 +7,8 @@ I am confident that I can make a significant contribution to your team and help 
 
 - 🔭 &nbsp;I’m currently working on something cool (Migration from Monolithic to Micro-Service) :wink:
 - 🌱 &nbsp;I’m currently learning deeply the MEAN stack
-- 📫 &nbsp;How to reach me: baidourihicham@gmail.com
+- 🌐 &nbsp;How to reach me: baidourihicham@gmail.com
+- 📫 &nbsp;Find more about my profile on: https://b2blink.ma/enactium/
 - 💬 &nbsp;Ask me about anything related to my technology stack below
 - ⚡ &nbsp;Fun fact: Creativity is intelligence having fun!
 
