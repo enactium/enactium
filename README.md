@@ -1,5 +1,9 @@
 ### Hi There 👋,
-Hello, my name is Hicham BAIDOURI and Ph.D. in computer science, I have more than 15 years of academic and industrial experiences in research, development and software design. I work actually as Java & JEE Expert, Enterprise Architect, Performance Consultant, Full-Stack Developer, IT Manager and Part-Time Teacher. 
+Hello, my name is Hicham BAIDOURI.
+I'm a passionate and experienced Full Stack Java & Mobile Developer with a Ph.D. in Computer Science.
+With over 16 years of experience in both front-end and back-end development, I have a strong proficiency in Java, mobile application development, and other programming languages. I am also an expert in research, development, and software design.
+I am a dedicated and skilled developer who is passionate about crafting innovative and efficient software solutions. I am also adept at collaborating with cross-functional teams to deliver high-quality, user-centric products.
+I am confident that I can make a significant contribution to your team and help you achieve your goals.
 
 - 🔭 &nbsp;I’m currently working on something cool (Migration from Monolithic to Micro-Service) :wink:
 - 🌱 &nbsp;I’m currently learning deeply the MEAN stack
