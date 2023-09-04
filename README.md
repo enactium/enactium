@@ -17,7 +17,7 @@ I am confident that I can make a significant contribution to your team and help 
 🏆 &nbsp;**Awards & Achievements**
 - World Customs Organization Certification (Twice)
 - Customs National Trophy
-- Won many TopCoder challenges regarding several projects and events
+- Won many international challenges regarding several projects and events
 
 -------
 
